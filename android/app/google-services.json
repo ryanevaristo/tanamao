@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43488914401",
+    "project_id": "randtech-login-tanamao",
+    "storage_bucket": "randtech-login-tanamao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43488914401:android:b631ae3e948d38e9efc0a0",
+        "android_client_info": {
+          "package_name": "com.randtech.logintanamao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43488914401-di6hsnqjnsqmrqs6ef4d6q76s6a99uf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.randtech.logintanamao",
+            "certificate_hash": "daddcfa8ae5ba3f39ef6b07e930eb64d97b031c4"
+          }
+        },
+        {
+          "client_id": "43488914401-8of90q126sf7bpb6ql4ihp0b8ogucao1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAym2BDlbYkuX8YJB7PSnuQMedgK60vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43488914401-8of90q126sf7bpb6ql4ihp0b8ogucao1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
